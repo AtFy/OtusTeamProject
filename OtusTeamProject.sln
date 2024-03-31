@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtusTeamProject", "OtusTeamProject\OtusTeamProject.csproj", "{A07C8310-CC35-45AD-8CDD-3BC3512C70EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A07C8310-CC35-45AD-8CDD-3BC3512C70EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A07C8310-CC35-45AD-8CDD-3BC3512C70EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A07C8310-CC35-45AD-8CDD-3BC3512C70EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A07C8310-CC35-45AD-8CDD-3BC3512C70EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
