@@ -7,6 +7,7 @@ public static class Application
     {
         Console.WriteLine("Hello, Otus!");
         Console.WriteLine();
+        
 
         Console.ReadKey();
     }
