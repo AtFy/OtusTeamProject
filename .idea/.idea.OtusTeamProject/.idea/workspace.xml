@@ -7,7 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6b9b59c-6a67-49f2-8682-52eab040e750" name="Changes" comment="- .gitignore modified." />
+    <list default="true" id="a6b9b59c-6a67-49f2-8682-52eab040e750" name="Changes" comment="- Deleted redundant files." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +41,11 @@
         <option name="url" value="https://github.com/AtFy/OtusTeamProject" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/OtusTeamProject/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/AtFy/Dev/Projects/CSharp/OtusTeamProject/OtusTeamProject/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/AtFy/Dev/Projects/CSharp/OtusTeamProject/OtusTeamProject/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -103,7 +108,7 @@
       <updated>1711886938034</updated>
       <workItem from="1711886940587" duration="2001000" />
       <workItem from="1711919417266" duration="46000" />
-      <workItem from="1711919947703" duration="299000" />
+      <workItem from="1711919947703" duration="622000" />
     </task>
     <task id="LOCAL-00001" summary="- test commit.">
       <option name="closed" value="true" />
@@ -129,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711919989225</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="- Deleted redundant files.">
+      <option name="closed" value="true" />
+      <created>1711920334731</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711920334731</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +177,7 @@
     <MESSAGE value="- test commit." />
     <MESSAGE value="- test commit #2" />
     <MESSAGE value="- .gitignore modified." />
-    <option name="LAST_COMMIT_MESSAGE" value="- .gitignore modified." />
+    <MESSAGE value="- Deleted redundant files." />
+    <option name="LAST_COMMIT_MESSAGE" value="- Deleted redundant files." />
   </component>
 </project>
