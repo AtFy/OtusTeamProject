@@ -11,6 +11,9 @@ public static class Application
         //Дима
         Console.WriteLine((0.1 + 0.2).ToString());
 
+        //Паша
+        Console.WriteLine(DateTime.Now.ToString("d"));
+
         Console.ReadKey();
     }
 }
