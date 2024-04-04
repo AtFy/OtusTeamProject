@@ -14,6 +14,10 @@ public static class Application
         //Паша
         Console.WriteLine(DateTime.Now.ToString("d"));
 
+        //Костя
+        var kosty = "Костя Ливчак тута =)";
+        Console.WriteLine(kosty);
+
         Console.ReadKey();
     }
 }
