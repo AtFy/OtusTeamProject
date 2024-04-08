@@ -17,6 +17,9 @@ public static class Application
         //Костя
         var kosty = "Костя Ливчак тута =)";
         Console.WriteLine(kosty);
+        
+        //Olya
+        Console.WriteLine("First commit");
 
         Console.ReadKey();
     }
